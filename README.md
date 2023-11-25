@@ -43,6 +43,7 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 ![image](https://github.com/Sajetha13/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/138849316/6218db35-13f0-4f51-9712-5b598a00fed9)
+![image](https://github.com/Sajetha13/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/138849316/652fb66c-230b-49e5-b7cc-f36055bf79f4)
 
 
 ## RESULT:
